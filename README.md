@@ -1,2 +1,2 @@
-# First-Data-Project
-Analysis of NFL Combine Data 2010-2014
+# First-Data-Project-NFLCombine
+Analysis of NFL Combine Data from2010-2014
